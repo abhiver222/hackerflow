@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1-8ed9ed147fe60fb46ddbddef5be19bb64a515cdc.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-services-android-sdk\2.0.3\5de03bab93697321e5654831bb98df11ad4c19ac\azure-mobile-services-android-sdk-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5de03bab93697321e5654831bb98df11ad4c19ac">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\azure-mobile-services-android-sdk-2.0.3-55e53e83ec406e814eb8da942ae91a5fdbd7862a.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\gson-2.3-9f34b32e5e8af9226072b51ed47e2ca35c8e161d.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-notifications-handler\1.0.1\c322af100020e6db539f2aa367698d4b88fc453f\azure-notifications-handler-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\azure-notifications-handler-1.0.1-70dac3bb8334e214d05325d61fda92c22fb1e486.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\guava-18.0-55f186896fc64a8be17820e299c36982ff984f30.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Akash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-a534e798f60877b28c3286fd33a6afdcaed5e6de.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\Development\HackerFlow\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\classes-d4c7643b79f7bac7a1b0223f379431b16621ff03.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\Development\HackerFlow\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-9b9a3d02a7fa6b15ff8cfedae94e3dec7f559064.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\Development\HackerFlow\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\classes-27374ffc8963dc82b0e50005bcfce00dcba85804.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\Development\HackerFlow\app\build\intermediates\exploded-aar\com.github.dkharrat.nexusdialog\nexusdialog\0.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7b32f6ae24464b8fa55e99bad84aa75ac4c59d79">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\classes-3c63c75cfe1780b608f983dd9f06ef51b5e983de.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Akash\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\core-3.2.1-9d9e98070784a6c8ceaf413f2c8a53443e52a0ab.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\Development\HackerFlow\app\build\intermediates\exploded-aar\com.estimote\sdk\0.9.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09fa4dc711242896ba69fd3ad3384d1a8c349195">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\classes-4bab22d62ca5cdb6f5d2bb52f2aef312e2a04276.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\Development\HackerFlow\app\libs\twilio-java-sdk-5.5.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb4c224fb4598560a17584b5abae61566f8fc68b">
+        <dex dex="G:\Development\HackerFlow\app\build\intermediates\pre-dexed\debug\twilio-java-sdk-5.5.0-jar-with-dependencies-8f89e2e441f913a3542cdc4fbd0690a66e968963.jar\classes.dex" />
+    </item>
+
+</items>
